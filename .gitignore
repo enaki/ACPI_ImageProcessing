@@ -1,7 +1,7 @@
 *.user
 *.vs
 *.pdf
-Proiect/Debug
-Proiect/x64
-Proiect/build
-Proiect/bin
+ACPI/ACPI/GeneratedFiles
+ACPI/ACPI/x64
+ACPI/ACPI/x64
+ACPI/x64
