@@ -1,0 +1,7 @@
+*.user
+*.vs
+*.pdf
+Proiect/Debug
+Proiect/x64
+Proiect/build
+Proiect/bin
